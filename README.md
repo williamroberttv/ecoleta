@@ -26,7 +26,6 @@ O <strong>Ecoleta</strong> é uma aplicação Web e Mobile para ajudar pessoas a
 
 Essa aplicação foi construída na trilha <strong>Booster</strong> da <strong>Next Level Week</strong> distribuída pela [Rocketseat](https://rocketseat.com.br/). A ideia de criar uma aplicação voltada ao meio ambiente surgiu da coincidência da data do curso e a data da <strong>semana do meio ambiente</strong>
 
-
 <a id="tecnologias-utilizadas"></a>
 
 ## :rocket: Tecnologias Utilizadas
@@ -59,7 +58,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 1. Faça um clone :
 
 ```sh
-  $ git clone https://github.com/williamroberttv/nlw.git
+  $ git clone https://github.com/williamroberttv/ecoleta.git
 ```
 
 2. Executando a Aplicação:
